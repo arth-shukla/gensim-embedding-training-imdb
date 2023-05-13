@@ -154,5 +154,7 @@ cython_debug/
 hidden/
 
 .DS_Store
-data.zip
+# data.zip
 data/
+glove.6B.100d.txt
+glove_word2vec_6B.100d.txt
