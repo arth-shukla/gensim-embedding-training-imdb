@@ -1,20 +1,22 @@
-# Link
+# Fine Tuning Word Embeddings with Gensim (Sentiment Analysis Toy Problem)
+
+## Link
 
 WandB: https://wandb.ai/arth-shukla/IMDB%20Sentiment%20Analysis
 
-# Resources Used
+## Resources Used
 
 The purpose of this project was to test fine-tuning word embeddings using Gensim for simpler nlp models (CNN and LSTM).
 
 For problem context (data and motivation), I used this toy problem: https://github.com/skillcate/sentiment-analysis-with-deep-neural-networks
 
-# Technologies Used
+## Technologies Used
 
 Architectures/Tools: LSTMs, CNNs, GLoVe Embeddings
 
 AI Development Keras, Gensim, GLoVe, Cuda, WandB
 
-# Evaluation and Inference
+## Evaluation and Inference
 
 More Figures available on WandB: https://wandb.ai/arth-shukla/IMDB%20Sentiment%20Analysis
 
@@ -46,10 +48,10 @@ The losses tell a similar story. Embedding type did not make much of a differenc
 
 
 
-# Future Experiments
+## Future Experiments
 
 I'd like to try out a more specialized terminology. In this case, my suspicion is that the word embeddings fitted directly to the data will be far less generalizable. Scientific papers or older texts might fit this well.
 
-# About Me
+## About Me
 
 Arth Shukla [Site](https://arth.website) | [GitHub](https://github.com/arth-shukla) | [LinkedIn](https://www.linkedin.com/in/arth-shukla/)
